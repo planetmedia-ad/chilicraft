@@ -155,7 +155,7 @@ body {
 /* Hero Section */
 .hero-section {
     position: relative;
-    background: linear-gradient(135deg, #EB0402, #DC2626, #B91C1C);
+    background: linear-gradient(135deg, #eb0402, #fc5b5b, #dd7474);
     color: white;
     min-height: 100vh;
     display: flex;
